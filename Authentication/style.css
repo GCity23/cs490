@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: block;
+    background-color: rgb(125, 185, 234);
+}
+
+button 
+{ 
+    color:#050; 
+    font: old 84% 'trebuchet ms',helvetica,sans-serif; 
+    background-color:rgb(235, 162, 225); 
+    border:1px solid; 
+    border-color: #696 #363 #363 #696; 
+}
+
+input
+{
+    color:#050; 
+    font: old 84% 'trebuchet ms',helvetica,sans-serif; 
+    background-color:rgb(235, 162, 225); 
+    border:1px solid; 
+    border-color: #696 #363 #363 #696; 
+    height: 40px;
+    width: 300px;
+}
